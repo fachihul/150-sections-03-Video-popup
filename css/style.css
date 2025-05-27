@@ -116,7 +116,7 @@ ul.check-icon {
     }
     .container.text-content {
         position: absolute;
-        top: 100%;
+        top: 120%;
     }
     .row {
         display: flex;
